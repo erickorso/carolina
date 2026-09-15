@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "title": "Vice Ministry for the Social Protection of Youth",
+    "description": "Oriana Carolina Vargas Rivas, Vice Minister for the Social Protection of Youth. Decree No. 5.346, Official Gazette No. 43.377."
+  },
+  "brand": {
+    "ministry": "People's Ministry for Youth",
+    "office": "Vice Ministry for the Social Protection of Youth",
+    "shortName": "Youth Social Protection",
+    "republic": "Bolivarian Republic of Venezuela",
+    "person": "Oriana Carolina Vargas Rivas",
+    "flag": "Flag of Venezuela"
+  },
+  "nav": {
+    "home": "Home",
+    "programs": "Programs",
+    "courses": "Courses",
+    "agenda": "Agenda",
+    "consulta": "Inquiry",
+    "office": "Office",
+    "menu": "Menu",
+    "close": "Close",
+    "skip": "Skip to content",
+    "primary": "Main",
+    "language": "Language"
+  },
+  "home": {
+    "lead": "Guidance, workshops and inquiries. An office that supports young people's life projects: housing, credit, recreation and territorial protection.",
+    "lines": "Four lines of action",
+    "bannerKicker": "Institutional banner",
+    "bannerHint": "Space for official photographs of the Office.",
+    "prev": "Previous",
+    "next": "Next",
+    "slidesLabel": "Slides",
+    "carouselLabel": "Office briefing",
+    "slides": {
+      "juramentacion": {
+        "title": "Social Protection Office",
+        "text": "Oriana Carolina Vargas Rivas · Vice Minister · Decree 5.346 · OG 43.377"
+      },
+      "territorio": {
+        "title": "Territory and youth",
+        "text": "Promoter teams, communes and a single channel of care."
+      },
+      "rie": {
+        "title": "Venezuela Ríe",
+        "text": "Recreation and care in communal circuits and camps."
+      }
+    }
+  },
+  "programs": {
+    "title": "Programs",
+    "intro": "Office lines aligned with the “Let's grow” vertex of Gran Misión Venezuela Joven.",
+    "openConsulta": "Open an inquiry",
+    "seeCourses": "See workshops",
+    "items": {
+      "vivienda": {
+        "title": "Youth housing",
+        "kicker": "Let's grow",
+        "summary": "Support for young couples and households: allocation, self-build, material credits and affordable rent."
+      },
+      "credito": {
+        "title": "Credit and life project",
+        "kicker": "Lucash",
+        "summary": "Guidance on financing, digital wallets and democratizing productive youth credit."
+      },
+      "recreacion": {
+        "title": "Recreation and care",
+        "kicker": "Venezuela Ríe",
+        "summary": "Workshops, traditional games and recreation days in communes and camps."
+      },
+      "emergencia": {
+        "title": "Emergency response",
+        "kicker": "Territorial protection",
+        "summary": "Humanitarian deployment with the Social Vice Presidency: recreation, support and case referral."
+      }
+    }
+  },
+  "courses": {
+    "title": "Courses and workshops",
+    "intro": "Registration open. One seat per email and course.",
+    "date": "Date",
+    "place": "Place",
+    "seats": "Seats",
+    "enroll": "Request a seat",
+    "open": "Open details and enroll",
+    "items": {
+      "habitat-joven": {
+        "title": "Youth habitat: self-build and credits",
+        "category": "Housing and habitat",
+        "summary": "Application path, materials and community organization for youth housing."
+      },
+      "lucash-basico": {
+        "title": "Credit and life project",
+        "category": "Credit",
+        "summary": "How to build a file, Lucash and territorial follow-up."
+      },
+      "rie-promotores": {
+        "title": "Venezuela Ríe promoters",
+        "category": "Recreation",
+        "summary": "Workshop methods, traditional games and camp care."
+      },
+      "liderazgo-comunal": {
+        "title": "Territorial leadership and map of dreams",
+        "category": "Leadership",
+        "summary": "Promoter teams, communes and protection case routing."
+      }
+    }
+  },
+  "agenda": {
+    "title": "Agenda",
+    "intro": "Upcoming workshops and Office days.",
+    "go": "Go to workshop",
+    "items": {
+      "a1": "Registration day — youth housing",
+      "a2": "Lucash workshop — life project",
+      "a3": "Venezuela Ríe — promoter training"
+    }
+  },
+  "consulta": {
+    "title": "Inquiry",
+    "intro": "Single Office channel. You will receive a ticket. This is not a Patria procedure.",
+    "successTitle": "Inquiry registered",
+    "successText": "Save your ticket for follow-up.",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "age": "Age",
+    "state": "State",
+    "municipio": "Municipality",
+    "type": "Case type",
+    "message": "Message",
+    "submit": "Send inquiry",
+    "sending": "Sending…",
+    "firebaseMissing": "Firebase is not configured (.env.local). The form is ready; the case was not sent.",
+    "sendError": "The inquiry could not be registered. Please try again.",
+    "types": {
+      "vivienda": "Housing",
+      "credito": "Credit / Lucash",
+      "taller": "Workshop or course",
+      "proteccion": "Social protection",
+      "emergencia": "Emergency",
+      "otro": "Other"
+    }
+  },
+  "despacho": {
+    "title": "Office",
+    "appointment": "Appointment",
+    "ministry": "Ministry",
+    "frame": "Legal frame",
+    "frameText": "Powers inherent to the office (LOAP arts. 84–85): direct, evaluate and report on youth social protection policy."
+  },
+  "admin": {
+    "title": "Office dashboard",
+    "inbox": "Inquiry inbox",
+    "consultas": "Inquiries",
+    "login": "Office access",
+    "password": "Password",
+    "enter": "Sign in",
+    "entering": "Signing in…",
+    "loginError": "Could not sign in. Check user and password.",
+    "checking": "Checking session…",
+    "needFirebase": "Set NEXT_PUBLIC_FIREBASE_* in .env.local to enable staff login and the inquiry inbox.",
+    "all": "all",
+    "pending": "pending",
+    "resolved": "resolved",
+    "discarded": "discarded",
+    "discardReason": "Discard reason (required when discarding)",
+    "markResolved": "Mark resolved",
+    "discard": "Discard",
+    "backPending": "Back to pending",
+    "empty": "No inquiries in this filter.",
+    "loadError": "Could not load the inbox.",
+    "discardNeedReason": "Discarding requires a reason (min. 8 characters).",
+    "statusFilter": "Inquiry status"
+  },
+  "footer": {
+    "disclaimer": "Institutional channel of the Office. It does not replace Patria procedures."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "back": "Back to home"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "title": "Viceministerio para la Protección Social de la Juventud",
+    "description": "Oriana Carolina Vargas Rivas, Viceministra para la Protección Social de la Juventud. Decreto N.º 5.346, Gaceta Oficial N.º 43.377."
+  },
+  "brand": {
+    "ministry": "Ministerio del Poder Popular para la Juventud",
+    "office": "Viceministerio para la Protección Social de la Juventud",
+    "shortName": "Protección Social Juventud",
+    "republic": "República Bolivariana de Venezuela",
+    "person": "Oriana Carolina Vargas Rivas",
+    "flag": "Bandera de Venezuela"
+  },
+  "nav": {
+    "home": "Inicio",
+    "programs": "Programas",
+    "courses": "Cursos",
+    "agenda": "Agenda",
+    "consulta": "Consulta",
+    "office": "Despacho",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "skip": "Saltar al contenido",
+    "primary": "Principal",
+    "language": "Idioma"
+  },
+  "home": {
+    "lead": "Canal de orientación, talleres y consultas. Un despacho para acompañar el proyecto de vida de la juventud: vivienda, crédito, recreación y protección en territorio.",
+    "lines": "Cuatro líneas de acción",
+    "bannerKicker": "Banner institucional",
+    "bannerHint": "Espacio para fotografías institucionales del Despacho.",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "slidesLabel": "Diapositivas",
+    "carouselLabel": "Gestión del Despacho",
+    "slides": {
+      "juramentacion": {
+        "title": "Despacho de Protección Social",
+        "text": "Oriana Carolina Vargas Rivas · Viceministra · Decreto 5.346 · GO 43.377"
+      },
+      "territorio": {
+        "title": "Territorio y juventud",
+        "text": "Equipos promotores, comunas y un canal único de atención."
+      },
+      "rie": {
+        "title": "Venezuela Ríe",
+        "text": "Recreación y cuidados en circuitos comunales y campamentos."
+      }
+    }
+  },
+  "programs": {
+    "title": "Programas",
+    "intro": "Líneas del Despacho alineadas al vértice «Vamos a crecer» de la Gran Misión Venezuela Joven.",
+    "openConsulta": "Abrir consulta",
+    "seeCourses": "Ver talleres",
+    "items": {
+      "vivienda": {
+        "title": "Vivienda joven",
+        "kicker": "Vamos a crecer",
+        "summary": "Acompañamiento a parejas y núcleos jóvenes: asignación, autoconstrucción, créditos de materiales y alquiler accesible."
+      },
+      "credito": {
+        "title": "Crédito y proyecto de vida",
+        "kicker": "Lucash",
+        "summary": "Orientación para financiamiento, billeteras digitales y democratización del crédito productivo juvenil."
+      },
+      "recreacion": {
+        "title": "Recreación y cuidados",
+        "kicker": "Venezuela Ríe",
+        "summary": "Talleres, juegos tradicionales y jornadas de recreación en circuitos comunales y campamentos."
+      },
+      "emergencia": {
+        "title": "Atención en emergencia",
+        "kicker": "Protección territorial",
+        "summary": "Despliegue humanitario con la Vicepresidencia Social: recreación, contención y enlace de casos."
+      }
+    }
+  },
+  "courses": {
+    "title": "Cursos y talleres",
+    "intro": "Inscripción abierta. Un cupo por correo y curso.",
+    "date": "Fecha",
+    "place": "Lugar",
+    "seats": "Cupos",
+    "enroll": "Solicitar inscripción",
+    "open": "Ver ficha e inscribirse",
+    "items": {
+      "habitat-joven": {
+        "title": "Hábitat joven: autoconstrucción y créditos",
+        "category": "Vivienda y hábitat",
+        "summary": "Ruta de solicitud, materiales y organización comunitaria para vivienda joven."
+      },
+      "lucash-basico": {
+        "title": "Crédito y proyecto de vida",
+        "category": "Crédito",
+        "summary": "Cómo armar un expediente, Lucash y seguimiento territorial."
+      },
+      "rie-promotores": {
+        "title": "Promotores Venezuela Ríe",
+        "category": "Recreación",
+        "summary": "Metodología de talleres, juegos tradicionales y atención en campamentos."
+      },
+      "liderazgo-comunal": {
+        "title": "Liderazgo territorial y mapa de sueños",
+        "category": "Liderazgo",
+        "summary": "Equipos promotores, comunas y canalización de casos de protección."
+      }
+    }
+  },
+  "agenda": {
+    "title": "Agenda",
+    "intro": "Próximos talleres y jornadas del Despacho.",
+    "go": "Ir al taller",
+    "items": {
+      "a1": "Jornada de inscripción — vivienda joven",
+      "a2": "Taller Lucash — proyecto de vida",
+      "a3": "Venezuela Ríe — formación de promotores"
+    }
+  },
+  "consulta": {
+    "title": "Consulta",
+    "intro": "Canal único del Despacho. Recibirás un ticket. No es trámite Patria.",
+    "successTitle": "Consulta registrada",
+    "successText": "Guarda tu ticket para seguimiento.",
+    "name": "Nombre completo",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "age": "Edad",
+    "state": "Estado",
+    "municipio": "Municipio",
+    "type": "Tipo de caso",
+    "message": "Mensaje",
+    "submit": "Enviar consulta",
+    "sending": "Enviando…",
+    "firebaseMissing": "Falta configurar Firebase (.env.local). El formulario está listo; no se envió el caso.",
+    "sendError": "No se pudo registrar la consulta. Intenta de nuevo.",
+    "types": {
+      "vivienda": "Vivienda",
+      "credito": "Crédito / Lucash",
+      "taller": "Taller o curso",
+      "proteccion": "Protección social",
+      "emergencia": "Emergencia",
+      "otro": "Otro"
+    }
+  },
+  "despacho": {
+    "title": "Despacho",
+    "appointment": "Nombramiento",
+    "ministry": "Ministerio",
+    "frame": "Marco",
+    "frameText": "Competencias inherentes al cargo (LOAP arts. 84–85): dirigir, evaluar y rendir cuenta de las políticas de protección social de la juventud."
+  },
+  "admin": {
+    "title": "Panel del Despacho",
+    "inbox": "Bandeja de consultas",
+    "consultas": "Consultas",
+    "login": "Acceso del Despacho",
+    "password": "Contraseña",
+    "enter": "Entrar",
+    "entering": "Entrando…",
+    "loginError": "No se pudo entrar. Revisa usuario y contraseña.",
+    "checking": "Verificando sesión…",
+    "needFirebase": "Configura NEXT_PUBLIC_FIREBASE_* en .env.local para habilitar login de staff y la bandeja de consultas.",
+    "all": "todas",
+    "pending": "pendiente",
+    "resolved": "resuelta",
+    "discarded": "descartada",
+    "discardReason": "Motivo de descarte (obligatorio al descartar)",
+    "markResolved": "Marcar resuelta",
+    "discard": "Descartar",
+    "backPending": "Volver a pendiente",
+    "empty": "No hay consultas en este filtro.",
+    "loadError": "No se pudo cargar la bandeja.",
+    "discardNeedReason": "El descarte exige un motivo (mín. 8 caracteres).",
+    "statusFilter": "Estado de consultas"
+  },
+  "footer": {
+    "disclaimer": "Canal institucional del Despacho. No sustituye trámites de Patria."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "back": "Volver al inicio"
+  }
+}

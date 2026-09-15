@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "title": "青年社会保护副部",
+    "description": "奥里亚娜·卡罗琳娜·巴尔加斯·里瓦斯，青年社会保护副部长。第5.346号法令，官方公报第43.377号。"
+  },
+  "brand": {
+    "ministry": "人民青年部",
+    "office": "青年社会保护副部",
+    "shortName": "青年社会保护",
+    "republic": "委内瑞拉玻利瓦尔共和国",
+    "person": "Oriana Carolina Vargas Rivas",
+    "flag": "委内瑞拉国旗"
+  },
+  "nav": {
+    "home": "首页",
+    "programs": "项目",
+    "courses": "课程",
+    "agenda": "日程",
+    "consulta": "咨询",
+    "office": "副部",
+    "menu": "菜单",
+    "close": "关闭",
+    "skip": "跳到正文",
+    "primary": "主导航",
+    "language": "语言"
+  },
+  "home": {
+    "lead": "指导、工作坊与咨询渠道。副部陪伴青年人生规划：住房、信贷、康乐与属地保护。",
+    "lines": "四条行动线",
+    "bannerKicker": "机构横幅",
+    "bannerHint": "副部官方照片位置。",
+    "prev": "上一张",
+    "next": "下一张",
+    "slidesLabel": "幻灯片",
+    "carouselLabel": "副部工作",
+    "slides": {
+      "juramentacion": {
+        "title": "社会保护副部",
+        "text": "Oriana Carolina Vargas Rivas · 副部长 · 法令 5.346 · 公报 43.377"
+      },
+      "territorio": {
+        "title": "属地与青年",
+        "text": "促进团队、公社与统一服务渠道。"
+      },
+      "rie": {
+        "title": "Venezuela Ríe",
+        "text": "公社线路与营地中的康乐与照护。"
+      }
+    }
+  },
+  "programs": {
+    "title": "项目",
+    "intro": "与大使命委内瑞拉青年“成长”轴线对齐的副部工作线。",
+    "openConsulta": "提交咨询",
+    "seeCourses": "查看工作坊",
+    "items": {
+      "vivienda": {
+        "title": "青年住房",
+        "kicker": "我们一起成长",
+        "summary": "陪伴青年家庭：分配、自建、建材信贷与可负担租赁。"
+      },
+      "credito": {
+        "title": "信贷与人生规划",
+        "kicker": "Lucash",
+        "summary": "融资、数字钱包与青年生产信贷普及指导。"
+      },
+      "recreacion": {
+        "title": "康乐与照护",
+        "kicker": "Venezuela Ríe",
+        "summary": "工作坊、传统游戏及公社与营地康乐日。"
+      },
+      "emergencia": {
+        "title": "应急响应",
+        "kicker": "属地保护",
+        "summary": "与社会副总统府协同：康乐、心理支持与个案转介。"
+      }
+    }
+  },
+  "courses": {
+    "title": "课程与工作坊",
+    "intro": "开放报名。每个邮箱每个课程一个名额。",
+    "date": "日期",
+    "place": "地点",
+    "seats": "名额",
+    "enroll": "申请报名",
+    "open": "查看详情并报名",
+    "items": {
+      "habitat-joven": {
+        "title": "青年人居：自建与信贷",
+        "category": "住房与人居",
+        "summary": "青年住房申请路径、材料与社区组织。"
+      },
+      "lucash-basico": {
+        "title": "信贷与人生规划",
+        "category": "信贷",
+        "summary": "如何准备档案、Lucash 与属地跟进。"
+      },
+      "rie-promotores": {
+        "title": "Venezuela Ríe 促进员",
+        "category": "康乐",
+        "summary": "工作坊方法、传统游戏与营地照护。"
+      },
+      "liderazgo-comunal": {
+        "title": "属地领导力与梦想地图",
+        "category": "领导力",
+        "summary": "促进团队、公社与保护个案转介。"
+      }
+    }
+  },
+  "agenda": {
+    "title": "日程",
+    "intro": "副部即将举办的工作坊与活动。",
+    "go": "前往工作坊",
+    "items": {
+      "a1": "报名日 — 青年住房",
+      "a2": "Lucash 工作坊 — 人生规划",
+      "a3": "Venezuela Ríe — 促进员培训"
+    }
+  },
+  "consulta": {
+    "title": "咨询",
+    "intro": "副部统一渠道。您将收到工单。这不是 Patria 手续。",
+    "successTitle": "咨询已登记",
+    "successText": "请保存工单以便跟进。",
+    "name": "全名",
+    "email": "邮箱",
+    "phone": "电话",
+    "age": "年龄",
+    "state": "州",
+    "municipio": "市",
+    "type": "案件类型",
+    "message": "留言",
+    "submit": "提交咨询",
+    "sending": "提交中…",
+    "firebaseMissing": "尚未配置 Firebase（.env.local）。表单已就绪，案件未发送。",
+    "sendError": "无法登记咨询，请重试。",
+    "types": {
+      "vivienda": "住房",
+      "credito": "信贷 / Lucash",
+      "taller": "工作坊或课程",
+      "proteccion": "社会保护",
+      "emergencia": "应急",
+      "otro": "其他"
+    }
+  },
+  "despacho": {
+    "title": "副部",
+    "appointment": "任命",
+    "ministry": "部委",
+    "frame": "法律框架",
+    "frameText": "职务固有职权（公共行政组织法 84–85 条）：指导、评估并报告青年社会保护政策。"
+  },
+  "admin": {
+    "title": "副部后台",
+    "inbox": "咨询收件箱",
+    "consultas": "咨询",
+    "login": "工作人员登录",
+    "password": "密码",
+    "enter": "登录",
+    "entering": "登录中…",
+    "loginError": "无法登录，请检查账号和密码。",
+    "checking": "正在验证会话…",
+    "needFirebase": "请在 .env.local 中配置 NEXT_PUBLIC_FIREBASE_* 以启用登录与收件箱。",
+    "all": "全部",
+    "pending": "待处理",
+    "resolved": "已解决",
+    "discarded": "已放弃",
+    "discardReason": "放弃原因（放弃时必填）",
+    "markResolved": "标为已解决",
+    "discard": "放弃",
+    "backPending": "改回待处理",
+    "empty": "此筛选下没有咨询。",
+    "loadError": "无法加载收件箱。",
+    "discardNeedReason": "放弃需填写原因（至少 8 个字符）。",
+    "statusFilter": "咨询状态"
+  },
+  "footer": {
+    "disclaimer": "副部机构渠道。不能替代 Patria 手续。"
+  },
+  "notFound": {
+    "title": "未找到页面",
+    "back": "返回首页"
+  }
+}

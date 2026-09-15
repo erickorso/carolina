@@ -27,6 +27,10 @@
   "home": {
     "lead": "指导、工作坊与咨询渠道。副部陪伴青年人生规划：住房、信贷、康乐与属地保护。",
     "lines": "四条行动线",
+    "sceneLabel": "四条行动线的交互三维场景",
+    "sceneHint": "拖动环绕 · 悬停 · 点击节点打开项目",
+    "sceneLoading": "正在加载三维场景…",
+    "sceneLinks": "场景中的项目",
     "bannerKicker": "机构横幅",
     "bannerHint": "副部官方照片位置。",
     "prev": "上一张",

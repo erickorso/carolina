@@ -27,6 +27,10 @@
   "home": {
     "lead": "Guidance, workshops and inquiries. An office that supports young people's life projects: housing, credit, recreation and territorial protection.",
     "lines": "Four lines of action",
+    "sceneLabel": "Interactive scene of the four lines of action",
+    "sceneHint": "Drag to orbit · hover · click a node to open the program",
+    "sceneLoading": "Loading 3D scene…",
+    "sceneLinks": "Programs in the scene",
     "bannerKicker": "Institutional banner",
     "bannerHint": "Space for official photographs of the Office.",
     "prev": "Previous",

@@ -7,7 +7,7 @@ export async function SiteFooter() {
   const brand = await getTranslations("brand");
 
   return (
-    <footer className="mt-auto border-t border-gold/30 bg-navy-deep text-cream">
+    <footer className="mt-auto w-full border-t border-gold/30 bg-navy-deep text-cream">
       <div className="mx-auto grid max-w-6xl gap-6 px-4 py-8 md:grid-cols-3">
         <div className="flex gap-3">
           <VenezuelaFlag className="mt-1 h-8 w-12 shrink-0 rounded-sm" label={brand("flag")} />

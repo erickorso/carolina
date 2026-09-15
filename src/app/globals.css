@@ -18,6 +18,11 @@
   --font-sans: var(--font-ibm-plex);
 }
 
+html,
+body {
+  min-height: 100dvh;
+}
+
 body {
   background: var(--color-cream);
   color: var(--color-ink);

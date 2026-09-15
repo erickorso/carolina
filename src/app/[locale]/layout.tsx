@@ -53,10 +53,10 @@ export default async function LocaleLayout({ children, params }: Props) {
   return (
     <html
       lang={localeHtmlLang[appLocale]}
-      className={`${ibmPlex.variable} ${notoSc.variable} h-full antialiased`}
+      className={`${ibmPlex.variable} ${notoSc.variable} min-h-dvh antialiased`}
     >
       <body
-        className={`flex min-h-full flex-col ${
+        className={`flex min-h-dvh flex-col ${
           appLocale === "zh" ? notoSc.className : ibmPlex.className
         }`}
       >

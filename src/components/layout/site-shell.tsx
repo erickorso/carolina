@@ -6,7 +6,7 @@ export async function SiteShell({ children }: { children: React.ReactNode }) {
   const t = await getTranslations("nav");
 
   return (
-    <div className="flex min-h-full flex-col">
+    <div className="flex min-h-dvh flex-col">
       <a
         href="#contenido"
         className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-gold focus:px-3 focus:py-2 focus:text-navy"
@@ -14,7 +14,7 @@ export async function SiteShell({ children }: { children: React.ReactNode }) {
         {t("skip")}
       </a>
       <SiteHeader />
-      <main id="contenido" className="flex-1">
+      <main id="contenido" className="flex-1 pb-8">
         {children}
       </main>
       <SiteFooter />

@@ -1,3 +1,28 @@
+const STAR_COUNT = 8;
+const ARC_CX = 13.5;
+const ARC_CY = 13.85;
+const ARC_R = 7.05;
+const ARC_START = (206 * Math.PI) / 180;
+const ARC_END = (334 * Math.PI) / 180;
+const STAR_R = 0.55;
+
+function starPoints(cx: number, cy: number, r: number): string {
+  const inner = r * 0.4;
+  return Array.from({ length: 10 }, (_, i) => {
+    const angle = -Math.PI / 2 + (i * Math.PI) / 5;
+    const radius = i % 2 === 0 ? r : inner;
+    return `${(cx + Math.cos(angle) * radius).toFixed(3)},${(cy + Math.sin(angle) * radius).toFixed(3)}`;
+  }).join(" ");
+}
+
+const ARC_STARS = Array.from({ length: STAR_COUNT }, (_, i) => {
+  const t = ARC_START + ((ARC_END - ARC_START) * i) / (STAR_COUNT - 1);
+  return {
+    x: ARC_CX + ARC_R * Math.cos(t),
+    y: ARC_CY + ARC_R * Math.sin(t),
+  };
+});
+
 export function VenezuelaFlag({
   className,
   label,
@@ -18,14 +43,9 @@ export function VenezuelaFlag({
       <rect width="27" height="6" y="6" fill="#00247d" />
       <rect width="27" height="6" y="12" fill="#cf142b" />
       <g fill="#fff">
-        <polygon points="13.5,7.35 13.72,8.02 14.42,8.02 13.85,8.43 14.07,9.1 13.5,8.68 12.93,9.1 13.15,8.43 12.58,8.02 13.28,8.02" />
-        <polygon points="10.4,7.7 10.62,8.37 11.32,8.37 10.75,8.78 10.97,9.45 10.4,9.03 9.83,9.45 10.05,8.78 9.48,8.37 10.18,8.37" />
-        <polygon points="16.6,7.7 16.82,8.37 17.52,8.37 16.95,8.78 17.17,9.45 16.6,9.03 16.03,9.45 16.25,8.78 15.68,8.37 16.38,8.37" />
-        <polygon points="8.1,8.45 8.32,9.12 9.02,9.12 8.45,9.53 8.67,10.2 8.1,9.78 7.53,10.2 7.75,9.53 7.18,9.12 7.88,9.12" />
-        <polygon points="18.9,8.45 19.12,9.12 19.82,9.12 19.25,9.53 19.47,10.2 18.9,9.78 18.33,10.2 18.55,9.53 17.98,9.12 18.68,9.12" />
-        <polygon points="6.4,9.4 6.62,10.07 7.32,10.07 6.75,10.48 6.97,11.15 6.4,10.73 5.83,11.15 6.05,10.48 5.48,10.07 6.18,10.07" />
-        <polygon points="20.6,9.4 20.82,10.07 21.52,10.07 20.95,10.48 21.17,11.15 20.6,10.73 20.03,11.15 20.25,10.48 19.68,10.07 20.38,10.07" />
-        <polygon points="13.5,9.55 13.72,10.22 14.42,10.22 13.85,10.63 14.07,11.3 13.5,10.88 12.93,11.3 13.15,10.63 12.58,10.22 13.28,10.22" />
+        {ARC_STARS.map((star) => (
+          <polygon key={`${star.x}-${star.y}`} points={starPoints(star.x, star.y, STAR_R)} />
+        ))}
       </g>
     </svg>
   );

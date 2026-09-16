@@ -40,15 +40,33 @@
     "slides": {
       "juramentacion": {
         "title": "Despacho de Protección Social",
-        "text": "Oriana Carolina Vargas Rivas · Viceministra · Decreto 5.346 · GO 43.377"
+        "text": "Oriana Carolina Vargas Rivas · Viceministra · Decreto 5.346 · GO 43.377",
+        "alt": "Palacio Federal Legislativo en Caracas"
       },
       "territorio": {
         "title": "Territorio y juventud",
-        "text": "Equipos promotores, comunas y un canal único de atención."
+        "text": "Equipos promotores, comunas y un canal único de atención.",
+        "alt": "Salto Ángel en Canaima, Venezuela"
       },
       "rie": {
         "title": "Venezuela Ríe",
-        "text": "Recreación y cuidados en circuitos comunales y campamentos."
+        "text": "Recreación y cuidados en circuitos comunales y campamentos.",
+        "alt": "Jóvenes juntos en un momento de recreación"
+      },
+      "cancha": {
+        "title": "Canchas de basket",
+        "text": "Inauguración de espacios deportivos en escuelas y comunidades.",
+        "alt": "Cancha de baloncesto recién inaugurada"
+      },
+      "salon": {
+        "title": "Salones escolares",
+        "text": "Aulas rehabilitadas para estudiar con dignidad.",
+        "alt": "Salón de clases escolar renovado"
+      },
+      "comedor": {
+        "title": "Comedores",
+        "text": "Alimentación escolar y comunitaria en espacios dignos.",
+        "alt": "Comedor escolar en servicio"
       }
     }
   },

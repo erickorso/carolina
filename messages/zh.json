@@ -40,15 +40,33 @@
     "slides": {
       "juramentacion": {
         "title": "社会保护副部",
-        "text": "Oriana Carolina Vargas Rivas · 副部长 · 法令 5.346 · 公报 43.377"
+        "text": "Oriana Carolina Vargas Rivas · 副部长 · 法令 5.346 · 公报 43.377",
+        "alt": "加拉加斯联邦立法宫"
       },
       "territorio": {
         "title": "属地与青年",
-        "text": "促进团队、公社与统一服务渠道。"
+        "text": "促进团队、公社与统一服务渠道。",
+        "alt": "委内瑞拉卡奈马天使瀑布"
       },
       "rie": {
         "title": "Venezuela Ríe",
-        "text": "公社线路与营地中的康乐与照护。"
+        "text": "公社线路与营地中的康乐与照护。",
+        "alt": "青年共同欢度康乐时光"
+      },
+      "cancha": {
+        "title": "篮球场",
+        "text": "学校与社区体育场地落成。",
+        "alt": "新落成的篮球场"
+      },
+      "salon": {
+        "title": "教室",
+        "text": "整修后的教室，有尊严地学习。",
+        "alt": "整修后的教室"
+      },
+      "comedor": {
+        "title": "食堂",
+        "text": "学校与社区的用餐空间。",
+        "alt": "学校食堂"
       }
     }
   },

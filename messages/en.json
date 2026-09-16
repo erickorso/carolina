@@ -40,15 +40,33 @@
     "slides": {
       "juramentacion": {
         "title": "Social Protection Office",
-        "text": "Oriana Carolina Vargas Rivas · Vice Minister · Decree 5.346 · OG 43.377"
+        "text": "Oriana Carolina Vargas Rivas · Vice Minister · Decree 5.346 · OG 43.377",
+        "alt": "Federal Legislative Palace in Caracas"
       },
       "territorio": {
         "title": "Territory and youth",
-        "text": "Promoter teams, communes and a single channel of care."
+        "text": "Promoter teams, communes and a single channel of care.",
+        "alt": "Angel Falls in Canaima, Venezuela"
       },
       "rie": {
         "title": "Venezuela Ríe",
-        "text": "Recreation and care in communal circuits and camps."
+        "text": "Recreation and care in communal circuits and camps.",
+        "alt": "Young people together in a moment of recreation"
+      },
+      "cancha": {
+        "title": "Basketball courts",
+        "text": "Opening of sports spaces in schools and communities.",
+        "alt": "Newly inaugurated basketball court"
+      },
+      "salon": {
+        "title": "School classrooms",
+        "text": "Rehabilitated classrooms for studying with dignity.",
+        "alt": "Renovated school classroom"
+      },
+      "comedor": {
+        "title": "Dining halls",
+        "text": "School and community meals in dignified spaces.",
+        "alt": "School dining hall in service"
       }
     }
   },

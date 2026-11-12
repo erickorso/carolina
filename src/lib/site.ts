@@ -1,7 +1,7 @@
 export const SITE = {
   shortName: "Protección Social Juventud",
   office: "Viceministerio para la Protección Social de la Juventud",
-  person: "Oriana Carolina Vargas Rivas",
+  person: "Oriana V.R.",
   ministry: "Ministerio del Poder Popular para la Juventud",
   republic: "República Bolivariana de Venezuela",
   decree: "Decreto N.º 5.346",

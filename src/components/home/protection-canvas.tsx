@@ -226,11 +226,7 @@ function ProgramNode({
         ) : null}
       </Float>
       <Html distanceFactor={7.5} center pointerEvents="none" zIndexRange={[10, 0]}>
-        <p
-          className={`max-w-[8.5rem] rounded-md px-2 py-1 text-center text-[0.65rem] leading-tight ${
-            lit ? "bg-gold text-navy-deep" : "bg-navy/90 text-cream"
-          }`}
-        >
+        <p className="max-w-[8.5rem] text-center text-[0.65rem] font-medium leading-tight text-white [text-shadow:0_1px_2px_#000,0_2px_12px_rgba(0,0,0,0.95)]">
           {label}
         </p>
       </Html>

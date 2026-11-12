@@ -1,14 +1,14 @@
 {
   "meta": {
     "title": "Viceministerio para la Protección Social de la Juventud",
-    "description": "Oriana Carolina Vargas Rivas, Viceministra para la Protección Social de la Juventud. Decreto N.º 5.346, Gaceta Oficial N.º 43.377."
+    "description": "Oriana V.R., Viceministra para la Protección Social de la Juventud. Decreto N.º 5.346, Gaceta Oficial N.º 43.377."
   },
   "brand": {
     "ministry": "Ministerio del Poder Popular para la Juventud",
     "office": "Viceministerio para la Protección Social de la Juventud",
     "shortName": "Protección Social Juventud",
     "republic": "República Bolivariana de Venezuela",
-    "person": "Oriana Carolina Vargas Rivas",
+    "person": "Oriana V.R.",
     "flag": "Bandera de Venezuela"
   },
   "nav": {
@@ -40,7 +40,7 @@
     "slides": {
       "juramentacion": {
         "title": "Despacho de Protección Social",
-        "text": "Oriana Carolina Vargas Rivas · Viceministra · Decreto 5.346 · GO 43.377",
+        "text": "Oriana V.R. · Viceministra · Decreto 5.346 · GO 43.377",
         "alt": "Palacio Federal Legislativo en Caracas"
       },
       "territorio": {

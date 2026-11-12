@@ -1,6 +1,6 @@
 # Portal del Despacho
 
-Viceministerio para la Protección Social de la Juventud · Oriana Carolina Vargas Rivas.
+Viceministerio para la Protección Social de la Juventud · Oriana V.R.
 
 ## Stack
 

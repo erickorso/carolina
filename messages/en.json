@@ -1,14 +1,14 @@
 {
   "meta": {
     "title": "Vice Ministry for the Social Protection of Youth",
-    "description": "Oriana Carolina Vargas Rivas, Vice Minister for the Social Protection of Youth. Decree No. 5.346, Official Gazette No. 43.377."
+    "description": "Oriana V.R., Vice Minister for the Social Protection of Youth. Decree No. 5.346, Official Gazette No. 43.377."
   },
   "brand": {
     "ministry": "People's Ministry for Youth",
     "office": "Vice Ministry for the Social Protection of Youth",
     "shortName": "Youth Social Protection",
     "republic": "Bolivarian Republic of Venezuela",
-    "person": "Oriana Carolina Vargas Rivas",
+    "person": "Oriana V.R.",
     "flag": "Flag of Venezuela"
   },
   "nav": {
@@ -40,7 +40,7 @@
     "slides": {
       "juramentacion": {
         "title": "Social Protection Office",
-        "text": "Oriana Carolina Vargas Rivas · Vice Minister · Decree 5.346 · OG 43.377",
+        "text": "Oriana V.R. · Vice Minister · Decree 5.346 · OG 43.377",
         "alt": "Federal Legislative Palace in Caracas"
       },
       "territorio": {

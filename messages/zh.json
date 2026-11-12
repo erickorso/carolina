@@ -1,14 +1,14 @@
 {
   "meta": {
     "title": "青年社会保护副部",
-    "description": "奥里亚娜·卡罗琳娜·巴尔加斯·里瓦斯，青年社会保护副部长。第5.346号法令，官方公报第43.377号。"
+    "description": "Oriana V.R.，青年社会保护副部长。第5.346号法令，官方公报第43.377号。"
   },
   "brand": {
     "ministry": "人民青年部",
     "office": "青年社会保护副部",
     "shortName": "青年社会保护",
     "republic": "委内瑞拉玻利瓦尔共和国",
-    "person": "Oriana Carolina Vargas Rivas",
+    "person": "Oriana V.R.",
     "flag": "委内瑞拉国旗"
   },
   "nav": {
@@ -40,7 +40,7 @@
     "slides": {
       "juramentacion": {
         "title": "社会保护副部",
-        "text": "Oriana Carolina Vargas Rivas · 副部长 · 法令 5.346 · 公报 43.377",
+        "text": "Oriana V.R. · 副部长 · 法令 5.346 · 公报 43.377",
         "alt": "加拉加斯联邦立法宫"
       },
       "territorio": {
